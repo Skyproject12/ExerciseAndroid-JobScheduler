@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">JobScheduler</string>
+    <string name="cancel">cancel</string>
+    <string name="start">Start</string>
+</resources>
